@@ -78,7 +78,7 @@ export function SimpleModal() {
         <form onSubmit={handleSubmit}>
           <DialogHeader>
             <DialogTitle>Add Note</DialogTitle>
-            <DialogDescription>Fill in the details below and click save when you're done.</DialogDescription>
+            <DialogDescription>Fill in the details below and click save when you&apos;re done.</DialogDescription>
           </DialogHeader>
           <div className="grid gap-4 py-4">
             <div className="grid gap-2">
